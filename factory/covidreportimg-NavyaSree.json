@@ -1,0 +1,9 @@
+{
+	"name": "covidreportimg-NavyaSree",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "55f2f759-5aa7-4b99-bd03-1ff44eb52eb3",
+		"tenantId": "085f983a-0b69-4270-b71d-10695076bafe"
+	}
+}
